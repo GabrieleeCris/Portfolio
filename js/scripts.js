@@ -11,9 +11,14 @@ async function getApiGithub() {
             <article class="section_content">
                 <h1>Who am I?</h1>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam odit voluptates incidunt
-                    inventore rem error harum blanditiis accusamus vitae, minus fugit consequatur? Dolorum maiores magni
-                    deleniti modi sit laudantium totam!
+                Profissional com formação em Gestão de Segurança Privada 
+                e uma boa trajetória nessa área. Atualmente, estou em busca de novos
+                 desafios e oportunidades na área da Tecnologia, formada no bootcamp da Generatio; Dev FullStack onde encontrei um 
+                 crescente interesse e entusiasmo por diversas vertentes, como
+                 front-end,segurança cibernética, inteligência artificial,
+                   entre outras. Estou determinada a expandir meu conhecimento 
+                   em tecnologia e colaborar com profissionais talentosos
+                    em um ambiente dinâmico.
                 </p>
 
                 <div class="section_github flex">
