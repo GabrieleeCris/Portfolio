@@ -111,3 +111,13 @@ body::-webkit-scrollbar-thumb {
 body.dark-theme::-webkit-scrollbar-track {
     background: var(--gray-200);
 }
+
+/* .imagem{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 10%;
+
+
+} */
+
